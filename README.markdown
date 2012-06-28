@@ -10,7 +10,7 @@ Code for https://dtestbadge.appspot.com
 
 Outputs an image with the current test results for a pull request using HTTP
 referrer.  Just paste the Markdown
-`\!\[Test Results\]\(https://dtestbadge.appspot.com\)` anywhere on the pull
+`![Test Results](https://dtestbadge.appspot.com)` anywhere on the pull
 request's page (in the description or a comment, for instance) and this will
 return an image with the pull request's current test results. It uses HTTP
 referrer to figure out which pull request's test results to look up.
