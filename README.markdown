@@ -1,5 +1,13 @@
 Code for https://dtestbadge.appspot.com
 
+![Tests PASS](https://github.com/eco/dtestbadge/raw/master/tests-pass.png)
+
+![Tests PASS (outdated)](https://github.com/eco/dtestbadge/raw/master/tests-pass-outdated.png)
+
+![Tests FAIL](https://github.com/eco/dtestbadge/raw/master/tests-fail.png)
+
+![Tests FAIL (outdated)](https://github.com/eco/dtestbadge/raw/master/tests-fail-outdated.png)
+
 Outputs an image with the current test results for a pull request using HTTP
 referrer.  Just paste the Markdown
 `\!\[Test Results\]\(https://dtestbadge.appspot.com\)` anywhere on the pull
